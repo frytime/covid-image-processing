@@ -1,0 +1,4 @@
+covid_env/
+*.pth
+__pycache__/
+*.DS_Store
